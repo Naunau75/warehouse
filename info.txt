@@ -1,0 +1,2 @@
+Je voudrais un algorithme d'optimisation de remplissage d'entrepôt avec différents types de produits et différentes capacités de chargement, en utilsant de l'apprentissage par renforcement.
+Je veux cela en python. Utilise les bibliothèques les plus modernes et innovantes.
