@@ -1,0 +1,39 @@
+# Fichier d'information spécifique
+info.txt
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Fichiers de données
+*.csv
+*.json
+*.pkl
+
+# Notebooks Jupyter
+.ipynb_checkpoints
+
+# Fichiers système
+.DS_Store
+Thumbs.db
